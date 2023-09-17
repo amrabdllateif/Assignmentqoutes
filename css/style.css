@@ -1,0 +1,10 @@
+.heading {
+    font-size: 80px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content {
+    border: 1px solid red;
+    width: min(100%, 800px);
+    margin: 30px auto;
+}
